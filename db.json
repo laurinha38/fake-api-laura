@@ -17,5 +17,14 @@
       "hora": "14:00",
       "observacao": "Levar exames de imagens"
     }
+
+    {
+      "id": 3,
+      "medico": "Laura Benevides",
+      "especialidade": "Fisioterapeuta Respiratória",
+      "data": "2025-12-12",
+      "hora": "09:30",
+      "observacao": "Reabilitação pulmonar"
+    }
   ]
 }

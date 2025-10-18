@@ -4,7 +4,7 @@
       "id": 1,
       "medico": "João Pedro Aragão",
       "especialidade": "Oncologista",
-      "data": "16/08/2025",
+      "data": "2025-08-16",
       "hora": "10:00",
       "observacao": "Levar exames de imagens"
     },
@@ -13,9 +13,18 @@
       "id": 2,
       "medico": "Lívia Rodrigues",
       "especialidade": "Pneumologista",
-      "data": "20/03",
+      "data": "2025-03-20",
       "hora": "14:00",
       "observacao": "Levar exames de imagens"
+    }
+
+    {
+      "id": 3,
+      "medico": "Laura Benevides",
+      "especialidade": "Fisioterapeuta Respiratória",
+      "data": "2025-12-05",
+      "hora": "09:30",
+      "observacao": "Reabilitação Pulmonar"
     }
   ]
 }
